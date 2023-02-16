@@ -41,6 +41,9 @@
 .item:nth-child(4) {
   background: hsl(320,80%,80%);
 }
+.item:nth-child(5) {
+  background: hsl(0, 80%, 80%);
+}
 
 .card-container-info{
   width: 100%;
